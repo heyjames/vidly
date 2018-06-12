@@ -1,5 +1,8 @@
 # vidly
 
+Great callback explanation
+https://medium.freecodecamp.org/javascript-callbacks-explained-using-minions-da272f4d9bcd?gi=bb61ee7ceb7f
+
 Open Terminal...
 "node --version"
 Download LTS version
